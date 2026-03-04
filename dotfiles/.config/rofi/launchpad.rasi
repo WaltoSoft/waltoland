@@ -7,6 +7,8 @@
 configuration {
     show-icons:          true;
     font:                "Cantarell 12";
+    me-select-entry:     "MousePrimary";
+    me-accept-entry:     "MouseDPrimary";
 }
 
 * {
