@@ -1,5 +1,5 @@
 GIT_DIR=$HOME_DIR/Git
-REPO_NAME=WaltoLand
+REPO_NAME=waltoland
 REPO_DIR=$GIT_DIR/$REPO_NAME
 echo ${GIT_DIR}
 BOLD="\033[1m"

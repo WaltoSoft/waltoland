@@ -2,7 +2,7 @@ executeScript() {
   local HOME_DIR=$1
   local GIT_DIR=$HOME_DIR/Git
   local REPO_BRANCH=$2
-  local REPO_NAME="WaltoLand"
+  local REPO_NAME="waltoland"
   local REPO_DIR="${GIT_DIR}/${REPO_NAME}"
   local REPO_URL="https://github.com/waltosoft/${REPO_NAME}.git"
 
