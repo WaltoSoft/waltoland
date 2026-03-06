@@ -1,5 +1,5 @@
 REPO_LIST = (
-  "waltopanel",
+  "waltopanel"
   "waltoland-switch"
 )
 
