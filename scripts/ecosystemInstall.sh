@@ -1,4 +1,4 @@
-REPO_LIST = (
+REPO_LIST=(
   "waltopanel"
   "waltoland-switch"
 )
