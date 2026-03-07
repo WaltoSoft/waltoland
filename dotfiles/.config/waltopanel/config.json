@@ -12,6 +12,7 @@
   ],
   "right": [
     { "type": "system_metrics" },
+    { "type": "launch", "icon": "bluetooth-symbolic", "command": "blueman-manager" },   
     { "type": "network" },
     { "type": "brightness" },
     { "type": "sound" },
