@@ -1,0 +1,22 @@
+{
+  "left": [
+    { "type": "launch",
+      "icon": "view-app-grid-symbolic",
+      "command": "pkill rofi || /home/billy/.config/waltoland/scripts/rofi-alphabetical-apps.sh"
+    },
+    { "type": "workspace" }
+  ],
+  "center": [
+    { "type": "clock" },
+    { "type": "weather" }
+  ],
+  "right": [
+    { "type": "system_metrics" },
+    { "type": "network" },
+    { "type": "brightness" },
+    { "type": "sound" },
+    { "type": "microphone" },
+    { "type": "battery"  },
+    { "type": "system" }
+  ]
+}
