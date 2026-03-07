@@ -153,7 +153,7 @@ installPackages() {
   installYayPackages() {
     if [[ ${#aursToInstall[@]} -gt 0 ]] ; then
       echoText "Installing yay packages: ${aursToInstall[*]}"
-      yay -S --noconfirm --mflags "--skippgpcheck" "${aursToInstall[@]}"
+      yay -S --noconfirm --mflags "--skippgpcheck --nocheck" "${aursToInstall[@]}"
     else
       echoText "No yay packages to install"
     fi
